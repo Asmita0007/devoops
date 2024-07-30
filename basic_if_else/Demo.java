@@ -2,6 +2,7 @@ import java.util.*;
 class Demo1{
 	public static void main(String[]args){
 	Scanner sc=new Scanner(System.in);
+	System.out.println("Asmita");
 	System.out.println("enter the no");
 	int n1=sc.nextInt();
 	if(n1>5){
